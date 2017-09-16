@@ -129,22 +129,22 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgb(193, 175, 242);}
+	from {background-color:rgb(132, 153, 221);}
 	to {background-color:rgb(242, 198, 227);}
 }
 
 @-moz-keyframes fondo {
-	from {background-color:rgb(193, 175, 242);}
+	from {background-color:rgb(132, 153, 221);}
 	to {background-color:rgb(242, 198, 227);}
 }
 
 @-ms-keyframes fondo {
-	from {background-color:rgb(193, 175, 242);}
+	from {background-color:rgb(132, 153, 221);}
 	to {background-color:rgb(242, 198, 227);}
 }
 
 @keyframes fondo {
-	from {background-color:rgb(193, 175, 242);}
+	from {background-color:rgb(132, 153, 221);}
 	to {background-color:rgb(242, 198, 227);}
 }
 
@@ -222,5 +222,5 @@ footer hr{
 	}
 }
 
-/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/toons/too-7/too683.cur), progress !important;} a:hover {cursor: url(http://cur.cursors-4u.net/toons/too-7/too683.cur), progress !important;} /* End http://www.cursors-4u.com */
+body, a:hover {cursor: url(http://cur.cursors-4u.net/toons/too-7/too683.cur), progress !important;} a:hover {cursor: url(http://cur.cursors-4u.net/toons/too-7/too683.cur), progress !important;};
 
