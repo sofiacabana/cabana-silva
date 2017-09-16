@@ -6,8 +6,8 @@
 body{
 	font-family:  'Nova Mono', monospace; 
 	font-weight:400;
-	background:rgba(255,255,255,1);
-	color:rgba(0,0,0,1);
+	background:rgb(203, 203, 203);
+	color:rgb(255, 255, 255);
 }
 
 h1, h2, h3{font-family: "Nova Mono", monospace; text-align:center; font-weight:700;}
@@ -62,7 +62,7 @@ video{
 	width:46%;
 	padding:2%;
 	float:left;
-	background-color:red;
+	background-color:#000000;
 	}
 
 .dupla a{
@@ -206,18 +206,21 @@ footer hr{
 @media screen and (orientation: portrait){
 
 	.dupla{
-		width:96%;
+		width:96%;    
 		padding:2%;
 		float:left;
 	}
 	.item{
 		width:48%;
 		margin:1%;
-		background:black;
-		color:#ddd
+		background:#ffffff;
+		color:#000000
 	}
 
 	footer hr{
 	width:20%;
 	}
 }
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://cur.cursors-4u.net/toons/too-7/too683.cur), progress !important;} a:hover {cursor: url(http://cur.cursors-4u.net/toons/too-7/too683.cur), progress !important;} /* End http://www.cursors-4u.com */
+
